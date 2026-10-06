@@ -1,0 +1,5 @@
+{
+  "name": "four-file-project",
+  "version": "0.2.1",
+  "description": "Start or revise projects in the four-file system (AGENTS.md, SPEC.md, PLAN.md, STATUS.md with git): grilled intake, contract tests, subfolder and package children, append-only task revisions."
+}
