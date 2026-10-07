@@ -1,10 +1,11 @@
 {
-  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "four-file-project",
   "owner": {
-    "name": "YOUR NAME"
+    "name": "electronics10"
   },
-  "description": "Start or revise projects in the four-file system: AGENTS.md, SPEC.md, PLAN.md, STATUS.md with git.",
+  "metadata": {
+    "description": "Start or revise projects in the four-file system: AGENTS.md, SPEC.md, PLAN.md, STATUS.md with git."
+  },
   "plugins": [
     {
       "name": "four-file-project",
