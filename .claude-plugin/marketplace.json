@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "four-file-project",
+  "owner": {
+    "name": "YOUR NAME"
+  },
+  "description": "Start or revise projects in the four-file system: AGENTS.md, SPEC.md, PLAN.md, STATUS.md with git.",
+  "plugins": [
+    {
+      "name": "four-file-project",
+      "source": "./",
+      "description": "Start or revise projects in the four-file system (AGENTS.md, SPEC.md, PLAN.md, STATUS.md with git): grilled intake, contract tests, subfolder and package children, append-only task revisions."
+    }
+  ]
+}
