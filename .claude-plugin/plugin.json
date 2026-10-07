@@ -1,6 +1,6 @@
 {
   "name": "four-file-project",
-  "description": "Start or revise projects in the four-file system (AGENTS.md, SPEC.md, PLAN.md, STATUS.md with git): grilled intake, contract tests, subfolder and package children, append-only task revisions."
+  "description": "Start or revise projects in the four-file system (AGENTS.md, SPEC.md, PLAN.md, STATUS.md with git): grilled intake, contract tests, subfolder and package children, append-only task revisions.",
   "author": { "name": "electronics10" },
   "keywords": ["project", "manage", "agent", "spec"]
 }
