@@ -9,16 +9,6 @@ Rules version 2 (`templates/AGENTS.md`) adds: contract tests, subfolder vs packa
 
 `reference/grilling.md` is adapted from SuperMatt (MIT); see `reference/grilling-LICENSE`.
 
-## Install
-
-In Claude Code:
-
-```text
-/plugin marketplace add YOUR-GITHUB-USERNAME/four-file-project
-/plugin install four-file-project@four-file-project
-```
-
-In the Claude app, install the `.plugin` file built from this repository (`zip -r four-file-project.plugin . -x ".git/*"`).
 
 ## License
 
